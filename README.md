@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, I'm Priyapta👋
+I'm Computer Science Student at University of Indonesia
+
+[![Priyapta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyapta)](https://github.com/Priyapta/github-readme-stats)
 
 <!--
 **Priyapta/Priyapta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
