@@ -1,7 +1,7 @@
 ## Hi, I'm Priyapta👋
 I'm Computer Science Student at University of Indonesia
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyapta&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyapta&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Priyapta" /></p>
 
 
 <!--
