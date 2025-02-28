@@ -1,28 +1,18 @@
-## Hi, I'm Priyapta👋
-I'm Computer Science Student at University of Indonesia
-<br>
-<center>Currently Motivated in</center>
-<table>
-  <tr>
-    <td> 
-      ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-    </td>
-    <td>
-      ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    </td>
-    <td>
-      ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-    </td>
-    <td>
-      ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-    </td>
-  </tr>
-</table>
+## Hi, I'm Priyapta👋  
+I'm a Computer Science Student at the University of Indonesia.  
 
+### 🚀 Currently Motivated in  
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyapta&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Priyapta" /></p>
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyapta&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Priyapta"/>
+</p>
 
 
 <!--
