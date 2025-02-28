@@ -1,5 +1,10 @@
 ## Hi, I'm Priyapta👋
 I'm Computer Science Student at University of Indonesia
+<br>
+<center>Currenly Motivated in</center>
+<p alling="left">
+  <a>![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)</a>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyapta&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Priyapta" /></p>
 
