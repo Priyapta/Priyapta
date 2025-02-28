@@ -9,7 +9,7 @@ I'm a Computer Science Student at the University of Indonesia.
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
-### 📊 GitHub Stats  
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyapta&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Priyapta"/>
 </p>
