@@ -2,8 +2,23 @@
 I'm Computer Science Student at University of Indonesia
 <br>
 <center>Currently Motivated in</center>
+<table>
+  <tr>
+    <td> 
+      ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+    </td>
+    <td>
+      ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+    </td>
+    <td>
+      ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+    </td>
+    <td>
+      ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+    </td>
+  </tr>
+</table>
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 
 
