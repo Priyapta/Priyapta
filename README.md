@@ -1,6 +1,13 @@
 ## Hi, I'm Priyapta👋  
 I'm a Computer Science Student at the University of Indonesia.  
 
+
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyapta&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Priyapta"/>
+</p>
+
 ### 🚀 Currently Motivated in  
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
@@ -9,11 +16,6 @@ I'm a Computer Science Student at the University of Indonesia.
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
   
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyapta&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Priyapta"/>
 </p>
 
 
